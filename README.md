@@ -1,6 +1,8 @@
 # test
 Testing123
 
-This is my first github readme. How many people have added this same line of text when learning github?
+Welcome to Teya Burnham's GitHub repository. 
+
+At this time, the repository is still in the testing phase.
 
 EOM
